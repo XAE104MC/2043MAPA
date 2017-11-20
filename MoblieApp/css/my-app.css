@@ -1,0 +1,15 @@
+.panellink li {
+    background-color: #0DD9AC !important;
+    color:white !important; 
+    font-weight: bold; 
+}
+.panel {
+    background: #0DD9AC;
+    
+}
+
+.panel h1 {
+    text-align: center;
+    color: white; 
+}
+
